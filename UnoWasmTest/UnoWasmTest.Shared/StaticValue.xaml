@@ -1,0 +1,6 @@
+﻿<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:UnoWasmTest.Shared">
+    <x:Int32 x:Key="SpanAll">2147483647</x:Int32>
+</ResourceDictionary>
